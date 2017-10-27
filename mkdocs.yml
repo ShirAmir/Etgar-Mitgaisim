@@ -1,1 +1,5 @@
 site_name: Etgar-Mitgaisim
+theme: cosmo
+
+extra_css:
+  - css/extra.css

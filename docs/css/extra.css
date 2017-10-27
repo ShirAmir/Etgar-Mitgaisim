@@ -1,0 +1,8 @@
+* {
+	direction: rtl;
+}
+
+.navbar {
+	display: none;
+	visibility: hidden;
+}
