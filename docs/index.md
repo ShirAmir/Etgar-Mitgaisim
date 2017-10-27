@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# המדריך לאתגריסט לקראת הגיוס
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+היי חברים! התחלנו את המדריך הזה במטרה לרכז כמה שיותר מידע לגבי הגיוס לצה"ל, בפרט בעיניים של אתגריסטים.
+במדריך הזה תמצאו המלצות *מאתגריסטים לאתגריסטים* על סמך נסיונם האישי. 
+לפיכך כל המידע המצוי כאן הוא בערבון מוגבל. 
 
-## Commands
+אם יש ברשותכם מידע שתרצו לתקן או להוסיף, אתם מוזמנים לעשות pull request ונעדכן אותה באתר במידה והיא רלוונטית. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+לפניות נוספות: liran.markin@gmail.com או shiramiremail@gmail.com
 
-## Project layout
+## תחילת המיונים - צו ראשון
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## שאלון אינטרנטי לשחקים וגאמה
+
+## כנס גאמה
+
+## סדנאת גאמה
+
+## ראיונות גאמה
+
+## מסלולים נוספים
+
+## סיווג בטחוני
+
+## כנס חתימה
+
+## שירות הסדיר
