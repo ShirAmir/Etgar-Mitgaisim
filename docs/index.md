@@ -143,25 +143,29 @@
 
 * ספרים ללימוד assembly, python, ורשתות:
 
-[http://cyber.org.il](http://cyber.org.il/)
+[cyber.org.il](http://cyber.org.il/)
+
+* ספר ללימוד רשתות תקשורת:
+
+[Computer Networks Book](https://www.dropbox.com/s/vpbdwtzglvhc8ri/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf?dl=0)
 
 * חומרי עזר ב - WEB:
 
-[https:/hackthissite.org/missions/basic](https://xss-game.appspot.com/)
+[hackthissite.org](https://hackthissite.org/missions/basic)
 
-[https://xss-game.appspot.com](https://xss-game.appspot.com/) 
+[xss-game.appspot.com](https://xss-game.appspot.com/) 
 
 * חומרי עזר כללי - wargame:
 
-[http://overthewire.org/wargames](http://overthewire.org/wargames/)
+[overthewire.org](http://overthewire.org/wargames/)
 
 * חומר עזר ל - reverse engineering:
 
-[https://drive.google.com/file/d/0B7DqPqIfABT0NnNlclFjUl9GTGc/view](https://drive.google.com/file/d/0B7DqPqIfABT0NnNlclFjUl9GTGc/view)
+[google drive link](https://drive.google.com/file/d/0B7DqPqIfABT0NnNlclFjUl9GTGc/view)
 
 * רשימת אתרי CTF - capture the flag:
 
-[http://captf.com/practice-ctf](http://captf.com/practice-ctf/)
+[captf.com](http://captf.com/practice-ctf/)
 
 
 ### טיפים כללים
