@@ -147,7 +147,7 @@
 
 * ספר ללימוד רשתות תקשורת:
 
-[Computer Networks Book](https://www.dropbox.com/s/vpbdwtzglvhc8ri/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf?dl=0)
+[Computer Networks Book](http://www.uoitc.edu.iq/images/documents/informatics-institute/exam_materials/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
 
 * חומרי עזר ב - WEB:
 
